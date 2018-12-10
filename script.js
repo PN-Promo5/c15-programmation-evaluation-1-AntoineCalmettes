@@ -76,7 +76,7 @@ function graphicalInterface() { // I create the function graphicalInterface
 
 }
 
-// graphicalInterface(graphicalInterface); // start the function
+// graphicalInterface(graphicalInterface); // start the function graphicalInterface
 
 
 
@@ -144,7 +144,12 @@ function graphicalInterface2() {
   containerSectionSalary.appendChild(inputNetAnnualSalary)// I add my input in my p
   containerSectionSalary.appendChild(document.createElement("br")) // I add a ("br") for a line break
 
+// function calculation
+
+function calculationSalary() {
+  
+}
 
 }
 
-graphicalInterface2(graphicalInterface2);
+//graphicalInterface2(graphicalInterface2); // start the function graphicalInterface2
